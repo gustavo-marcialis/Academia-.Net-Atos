@@ -7,8 +7,6 @@
             int votostotais, votosvalidos, votosbrancos, votosnulos;
             double validosporcento, brancosporcento, nulosporcento;
 
-            
-
             Console.Write("digite o total de votos: ");
             votostotais = int.Parse(Console.ReadLine());
             Console.Write("Votos Brancos: ");
@@ -21,11 +19,9 @@
             brancosporcento = (votostotais * votosbrancos) / 100;
             nulosporcento = (votostotais * votosnulos) / 100;
 
-            Console.WriteLine("Votos Válidos: " + validosporcento + "%");
-            Console.WriteLine("Votos Brancos: " + brancosporcento + "%");
-            Console.WriteLine("Votos Nulos: " + nulosporcento + "%");
-
-
+            Console.WriteLine($"Votos Válidos: {validosporcento:f2}%");
+            Console.WriteLine($"Votos Brancos: {brancosporcento:f2}%");
+            Console.WriteLine($"Votos Nulos: {nulosporcento:f2}%");
         }
     }
 }
