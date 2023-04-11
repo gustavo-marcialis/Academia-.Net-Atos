@@ -1,0 +1,15 @@
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.csproj.AssemblyReference.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.AssemblyInfoInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.AssemblyInfo.cs
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\bin\Debug\net6.0\idadevalida.exe
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\bin\Debug\net6.0\idadevalida.deps.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\bin\Debug\net6.0\idadevalida.runtimeconfig.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\bin\Debug\net6.0\idadevalida.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\bin\Debug\net6.0\idadevalida.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\refint\idadevalida.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\idadevalida.genruntimeconfig.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\idadevalida\idadevalida\obj\Debug\net6.0\ref\idadevalida.dll
