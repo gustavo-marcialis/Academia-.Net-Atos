@@ -1,0 +1,15 @@
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.csproj.AssemblyReference.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.AssemblyInfoInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.AssemblyInfo.cs
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\bin\Debug\net6.0\numerodefilhos.exe
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\bin\Debug\net6.0\numerodefilhos.deps.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\bin\Debug\net6.0\numerodefilhos.runtimeconfig.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\bin\Debug\net6.0\numerodefilhos.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\bin\Debug\net6.0\numerodefilhos.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\refint\numerodefilhos.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\numerodefilhos.genruntimeconfig.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerodefilhos\numerodefilhos\obj\Debug\net6.0\ref\numerodefilhos.dll
