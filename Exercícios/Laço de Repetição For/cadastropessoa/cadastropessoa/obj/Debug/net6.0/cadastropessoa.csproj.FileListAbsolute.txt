@@ -1,0 +1,15 @@
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.csproj.AssemblyReference.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.AssemblyInfoInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.AssemblyInfo.cs
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\bin\Debug\net6.0\cadastropessoa.exe
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\bin\Debug\net6.0\cadastropessoa.deps.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\bin\Debug\net6.0\cadastropessoa.runtimeconfig.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\bin\Debug\net6.0\cadastropessoa.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\bin\Debug\net6.0\cadastropessoa.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\refint\cadastropessoa.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\cadastropessoa.genruntimeconfig.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\cadastropessoa\cadastropessoa\obj\Debug\net6.0\ref\cadastropessoa.dll
