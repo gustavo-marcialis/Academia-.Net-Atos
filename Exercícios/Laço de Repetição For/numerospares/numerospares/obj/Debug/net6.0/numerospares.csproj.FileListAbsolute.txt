@@ -1,0 +1,15 @@
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.csproj.AssemblyReference.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.AssemblyInfoInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.AssemblyInfo.cs
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\bin\Debug\net6.0\numerospares.exe
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\bin\Debug\net6.0\numerospares.deps.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\bin\Debug\net6.0\numerospares.runtimeconfig.json
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\bin\Debug\net6.0\numerospares.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\bin\Debug\net6.0\numerospares.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\refint\numerospares.dll
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.pdb
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\numerospares.genruntimeconfig.cache
+C:\Users\Rodri\OneDrive\Área de Trabalho\Gustavo\Academia .Net\Exercicio\Laço de Repetição For\numerospares\numerospares\obj\Debug\net6.0\ref\numerospares.dll
