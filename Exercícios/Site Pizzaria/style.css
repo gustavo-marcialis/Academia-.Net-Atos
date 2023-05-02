@@ -1,0 +1,398 @@
+*{margin: 0; padding: 0;}
+
+body {
+background: #333132;
+  color: #fff;
+}
+
+main h2 {
+	margin-top: 5%;
+}
+
+
+/*MENU*/
+header {
+	margin-bottom: 2%;
+	background: linear-gradient(to right, #8B0000, #000000);
+
+}
+
+.menu {
+ 	background: linear-gradient(to right, #8B0000, #000000);
+	 list-style:none; 
+	 float:left; 
+	 width: 100%;
+ }
+
+.menu h1 {
+	color: #FFF;
+}
+
+.menu li{
+	position:relative; 
+	float:left; 
+	border-right:1px solid #8B0000; 
+	font-size: 70%;
+}
+
+.menu li a{
+	color:#FFF; 
+	text-decoration:none; 
+	padding:5px 10px; 
+	display:block;
+}
+
+.menu li a:hover{
+	color:#fff;
+	-moz-box-shadow:0 3px 10px 0 #CCC; 
+	-webkit-box-shadow:0 3px 10px 0 #ccc; 
+	text-shadow:0px 0px 5px #fff; 
+}
+
+
+/*RODAPÉ*/
+
+footer {
+	margin-top: 3%;
+	background: linear-gradient(to right, #8B0000, #000000);
+}
+
+.redes{
+	list-style:none; 
+	float:left; 
+	width: 100%;
+	background: linear-gradient(to right, #8B0000, #000000);
+}
+
+footer h4 {
+	color: #FFF;
+}
+
+.redes li{
+	position:relative; 
+	float:left; 
+	border-right:1px solid #8B0000; 
+	font-size: 70%;
+}
+
+.redes li a{
+	color:#FFF; 
+	text-decoration:none; 
+	padding:5px 10px; 
+	display:block;
+}
+
+.redes li a:hover{
+	color:#fff;
+	-moz-box-shadow:0 3px 10px 0 #CCC; 
+	-webkit-box-shadow:0 3px 10px 0 #ccc; 
+	text-shadow:0px 0px 5px #fff; 
+}
+
+
+/* Página Index */
+.centro {
+	text-align: center;
+}
+
+.segunda {
+	margin-bottom: 2%;
+	text-align: center;
+}
+
+.terca {
+	margin-bottom: 2%;
+	text-align: center;
+	margin-top: auto;
+}
+
+.quarta {
+	margin-bottom: 2%;
+	text-align: center;
+}
+
+.card {
+	background: #000;
+	width: 80%;
+	padding-left: 3%;
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
+
+.card h1 {
+	font-size: 110%;
+}
+
+.btn {
+	margin-top: 2%;
+	margin-bottom: 4%;
+	color: white;
+	background: #8B0000;
+	width: 50%;
+	height: 40px;
+	font-size: 110%;
+	cursor: pointer;
+}
+
+
+/*Página Cardápio*/
+#container {
+	text-align: center;
+	margin: 0px;
+  }
+
+.cardapio-salgado {
+	width: 97%;
+	height: 300px;
+	border: none;
+	font-size: 93%;
+	background:#000000;
+	color: white;
+}
+
+.cardapio-salgado td  {
+	text-align: center;
+	border: none;
+}
+
+.cardapio-doce {
+	width: 97%;
+	height: 300px;
+	border: none;
+	font-size: 93%;
+	background-color: #000;
+	color: white;
+	opacity: 0.9;
+}
+
+.cardapio-doce td  {
+	padding-left: 1%;
+	border: none;
+}
+
+.cardapio-bebida {
+	width: 97%;
+	height: 300px;
+	border: none;
+	font-size: 93%;
+	background-color: #000;
+	color: white;
+	opacity: 0.9;
+}
+
+
+
+.cardapio-bebida td  {
+	padding-left: 1%;
+	border: none;
+}
+
+
+
+
+/*Página Galeria*/
+.fotos {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	flex-wrap: wrap;
+	text-align: center;
+  }
+  
+  .ambiente, .delicias {
+	max-width: 100%;
+  height: 150px;
+  width: 30%;
+  margin: 10px;
+  }
+  
+
+
+/*Página Contato*/
+.contato {
+	text-align: center;
+	margin-top: 3%;
+}
+
+.contato h2 {
+	font-size: 200%;
+}
+
+.form input {
+	margin-bottom: 2%;
+	background: #000;
+	color: white;
+	border: 2px solid white;
+	width: 50%;
+	height: 30px;
+}
+
+textarea {
+	background: #000;
+	color: white;
+	border: 2px solid white;
+	height: 100px;
+	width: 50%;
+}
+
+#validacao {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+}
+
+#validacao h1 {
+	color: #8B0000;
+}
+
+#validacao p {
+	color: #FFF;
+}
+
+#voltar {
+	margin-top: 2%;
+	margin-bottom: 4%;
+	color: white;
+	background: #8B0000;
+	width: 110%;
+	height: 40px;
+	font-size: 110%;
+	cursor: pointer;
+}
+
+
+/*Página Sobre*/
+.box {
+	text-align: center;
+}
+
+#ambiente {
+	width: 40%;
+	height: auto;
+}
+
+.paragrafos {
+	text-align: center;
+	margin-bottom: 1%;
+	margin-top: 1%;
+	
+	font-size: 120%;
+}
+
+.pizza {
+	width: 40%;
+}
+
+.bebida {
+	width: 40%;
+}
+
+.desc {
+	font-size: 75%;
+}
+
+
+/* estilos mobile */
+@media screen and (max-width: 768px) {
+	/*MENU*/
+	header {
+		margin-bottom: 2%;
+		background: linear-gradient(to right, #8B0000, #000000);
+	
+	}
+	
+	.menu {
+		 background: linear-gradient(to right, #8B0000, #000000);
+		 list-style:none; 
+		 float:left; 
+		 width: 100%;
+	 }
+	
+	.menu h1 {
+		color: #FFF;
+	}
+	
+	.menu li{
+		position:relative; 
+		float:left; 
+		border-right:1px solid #8B0000; 
+		font-size: 70%;
+	}
+	
+	.menu li a{
+		color:#FFF; 
+		text-decoration:none; 
+		padding:5px 10px; 
+		display:block;
+	}
+	
+	.menu li a:hover{
+		color:#fff;
+		-moz-box-shadow:0 3px 10px 0 #CCC; 
+		-webkit-box-shadow:0 3px 10px 0 #ccc; 
+		text-shadow:0px 0px 5px #fff; 
+	}
+  
+	/*Página Index*/
+	.card {
+	  background: #000;
+	  width: 90%;
+	  margin: 0 auto;
+	  padding: 5%;
+	}
+  
+	.btn {
+	  margin: 5% auto;
+	  width: 80%;
+	}
+  
+	/*Página Cardápio*/
+	.cardapio-salgado {
+	  width: 100%;
+	  height: auto;
+	  font-size: 20px;
+	}
+  
+	.cardapio-doce, .cardapio-bebida {
+	  width: 100%;
+	  height: auto;
+	  font-size: 20px;
+	  padding: 5%;
+	}
+  
+	/*Página Galeria*/
+	.fotos {
+	  flex-direction: column;
+	  align-items: center;
+	  margin-top: 10%;
+	}
+  
+	.ambiente, .delicias {
+	  max-width: 100%;
+	  width: 90%;
+	  height: auto;
+	  margin-bottom: 10px;
+	}
+  
+	/*Página Contato*/
+	.form input, textarea {
+	  width: 90%;
+	  margin: 5% auto;
+	}
+  
+	#voltar {
+	  width: 90%;
+	  margin: 5% auto;
+	}
+  
+	/*Página Sobre*/
+	#ambiente {
+	  width: 60%;
+	  margin: 5% auto;
+	}
+  }
