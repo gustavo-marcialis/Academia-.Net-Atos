@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exemplo de formulário com JavaScript</title>
+    <script>
+    //Exercício 1
+      function alterarCor(cor) {
+        document.body.style.backgroundColor = cor;
+      }
+      
+      //Exercício 2
+      function alterarCor2(cor) {
+      document.body.style.backgroundColor = cor;
+      }
+      
+      //Exercício 3
+      function alterarCor3() {
+      	var cor = document.querySelector('input[name="cor"]:checked').value;
+      	document.body.style.backgroundColor = cor;
+      }
+      
+      //Exercício 4
+      function mostrarTexto() {
+      var texto = document.getElementById("texto");
+      if (texto.style.display === "none") {
+      texto.style.display = "block";
+      } else {
+      texto.style.display = "none";
+      }
+      }
+      
+      //Exercício 5
+      function ativarBotao() {
+      var checkboxes = document.querySelectorAll('input[type="checkbox"]:checked');
+      var botao = document.getElementById("Botao");
+      if (checkboxes.length >= 2) {
+      botao.disabled = false;
+      } else {
+      botao.disabled = true;
+      }
+      }
+    </script>
+  </head>
+  <body>
+  
+    <h1>Exercício 1</h1>
+    <form>
+      <button type="button" onclick="alterarCor('red')">Vermelho</button>
+      <button type="button" onclick="alterarCor('green')">Verde</button>
+      <button type="button" onclick="alterarCor('blue')">Azul</button>
+      <button type="button" onclick="alterarCor('yellow')">Amarelo</button>
+    </form><br><br>
+    
+	<h1>Exercício 2</h1>
+	<ul>
+		<li><a href="#" onmouseover="alterarCor2('red')">Vermelho</a></li>
+		<li><a href="#" onmouseover="alterarCor2('green')">Verde</a></li>
+		<li><a href="#" onmouseover="alterarCor2('blue')">Azul</a></li>
+		<li><a href="#" onmouseover="alterarCor2('yellow')">Amarelo</a></li>
+	</ul><br><br>
+    
+    <h1>Exercício 3</h1>
+    <form>
+    <input type="radio" id="vermelho" name="cor" value="red" onclick="alterarCor3()">
+    <label for="vermelho">Vermelho</label><br>
+    <input type="radio" id="verde" name="cor" value="green" onclick="alterarCor3()">
+    <label for="verde">Verde</label><br>
+    <input type="radio" id="azul" name="cor" value="blue" onclick="alterarCor3()">
+    <label for="azul">Azul</label><br>
+    <input type="radio" id="amarelo" name="cor" value="yellow" onclick="alterarCor3()">
+    <label for="amarelo">Amarelo</label>
+    </form><br><br>
+    
+    <h1>Exercício 4</h1>
+    <button onclick="mostrarTexto()">Ocultar/Mostrar Texto</button>
+    <p id="texto">Mostrando texto</p><br><br>
+    
+    <h1>Exercício 5</h1>
+    <form>
+    <input type="checkbox" name="item1" value="Item 1" onchange="ativarBotao()"> Item 1<br>
+    <input type="checkbox" name="item2" value="Item 2" onchange="ativarBotao()"> Item 2<br>
+    <input type="checkbox" name="item3" value="Item 3" onchange="ativarBotao()"> Item 3<br>
+    <input type="checkbox" name="item4" value="Item 4" onchange="ativarBotao()"> Item 4<br>
+    <input type="submit" id="Botao" value="Enviar" disabled>
+    </form><br><br>
+  </body>
+</html>

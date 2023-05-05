@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Exercícios 6-8</title>
+    <style>
+      body {
+        background-color: white;
+      }
+      #meuParagrafo {
+        font-size: 20px;
+        color: black;
+        background-color: white;
+      }
+    </style>
+    <script>
+      //Exercício 6
+      function mudarCorFonte(cor) {
+        var meuParagrafo = document.getElementById("meuParagrafo");
+        meuParagrafo.style.color = cor;
+      }
+      function mudarCorFundo(cor) {
+        var meuParagrafo = document.getElementById("meuParagrafo");
+        meuParagrafo.style.backgroundColor = cor;
+      }
+
+      //Exercício 7
+      function aumentarFonte() {
+        var meuParagrafo = document.getElementById("meuParagrafo");
+        var tamanhoAtual = window.getComputedStyle(meuParagrafo, null).getPropertyValue('font-size');
+        var novoTamanho = parseFloat(tamanhoAtual) + 2;
+        meuParagrafo.style.fontSize = novoTamanho + 'px';
+      }
+      function diminuirFonte() {
+        var meuParagrafo = document.getElementById("meuParagrafo");
+        var tamanhoAtual = window.getComputedStyle(meuParagrafo, null).getPropertyValue('font-size');
+        var novoTamanho = parseFloat(tamanhoAtual) - 2;
+        meuParagrafo.style.fontSize = novoTamanho + 'px';
+      }
+
+      //Exercício 8
+      function transformarEmMaiusculas() {
+    var meuParagrafo = document.getElementById("meuParagrafo");
+    meuParagrafo.textContent = meuParagrafo.textContent.toUpperCase();
+  }
+  function transformarEmMinusculas() {
+    var meuParagrafo = document.getElementById("meuParagrafo");
+    meuParagrafo.textContent = meuParagrafo.textContent.toLowerCase();
+  }
+    </script>
+  </head>
+  <body>
+    <div>
+      <!-- Exercício 6 !-->
+      <p id="meuParagrafo">Este é um parágrafo de exemplo com um texto qualquer.</p>
+      <button onclick="aumentarFonte()">+</button>
+      <button onclick="diminuirFonte()">-</button>
+    </div>
+    <div>
+      <h2>Mudar Cores</h2>
+      <button onclick="mudarCorFonte('white')">Fonte Branca</button>
+      <button onclick="mudarCorFonte('black')">Fonte Preta</button>
+    </div>
+    <div>
+
+      <!-- Exercício 7 !-->
+      <button onclick="mudarCorFundo('white')">Fundo Branco</button>
+      <button onclick="mudarCorFundo('black')">Fundo Preto</button>
+    </div>
+    <div>
+      
+      <!-- Exercício 8 !--> 
+      <button onclick="aumentarFonte()">+</button>
+      <button onclick="diminuirFonte()">-</button>
+    </div>
+    <div>
+      <button onclick="transformarEmMaiusculas()">Maiúsculas</button>
+      <button onclick="transformarEmMinusculas()">Minúsculas</button>
+    </div>
+    
+  </body>
+</html>
